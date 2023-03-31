@@ -134,7 +134,9 @@ HTTP 학습을 기록하기 위한 저장소 입니다.
   - 따라서, 완전 캐시 무효화 하려면 no cache, no store, must-revaildate 다 써줘야됨.
 
 
-
+-------------
+### 최종미션
+- core.md 암기
   
   
   
